@@ -6,8 +6,8 @@
   "dependencies": {
     "axios": "0.27.2",
     "next": "latest",
-    "react": "18.1.0",
-    "react-dom": "18.1.0",
+    "react": "18.3.0",
+    "react-dom": "18.3.0",
     "swr": "latest"
   },
   "scripts": {
